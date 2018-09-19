@@ -33,6 +33,14 @@ ms@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.0.0.tgz#5608aeadfc00be6c2901df5f9861788de0d597c8"
 
-qs@^6.5.1:
-  version "6.5.1"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.1.tgz#349cdf6eef89ec45c12d7d5eb3fc0c870343a6d8"
+nitrotype@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/nitrotype/-/nitrotype-1.0.0.tgz#f06742453f5bc566be8577b1e64a512b8bcbd238"
+  dependencies:
+    axios "^0.18.0"
+    cookie "^0.3.1"
+    qs "^6.5.2"
+
+qs@^6.5.2:
+  version "6.5.2"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
