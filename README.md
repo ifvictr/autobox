@@ -1,3 +1,3 @@
-# autoclaimer-nitrotype
+# autobox
 
-I know, I know, it needs a better name. Expect this repository to be renamed soon!
+Automatically claim your Nitro Type daily rewards with AWS Lambda.

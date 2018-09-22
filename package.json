@@ -1,9 +1,9 @@
 {
-    "name": "autoclaimer-nitrotype",
+    "name": "autobox",
     "version": "1.0.0",
-    "description": "Automatically claim your NitroType rewards with AWS Lambda.",
-    "main": "index.js",
-    "repository": "git@github.com:ifvictr/autoclaimer-nitrotype.git",
+    "description": "Automatically claim your Nitro Type rewards with AWS Lambda.",
+    "main": "./index.js",
+    "repository": "git@github.com:ifvictr/autobox.git",
     "author": "Victor Truong <me@ifvictr.com>",
     "license": "MIT",
     "dependencies": {
