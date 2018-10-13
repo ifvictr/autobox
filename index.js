@@ -1,6 +1,6 @@
 const nitrotype = require('nitrotype')
- 
-exports.handler = async (event, context) => {
+
+exports.handler = async () => {
     try {
         const client = nitrotype({
             username: process.env.NT_USERNAME,
